@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>兼行病院</title>
+    <title>医療法人けんこう 兼行病院</title>
     <link>https://mc.kenkougroup.or.jp/</link>
-    <description>Recent content on 兼行病院</description>
+    <description>Recent content on 医療法人けんこう 兼行病院</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 11 May 2018 09:06:46 +1000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://mc.kenkougroup.or.jp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Contact</title>
-      <link>https://mc.kenkougroup.or.jp/contact/</link>
-      <pubDate>Sat, 12 May 2018 13:49:50 +1000</pubDate>
+      <title>休日当番医のお知らせ２</title>
+      <link>https://mc.kenkougroup.or.jp/posts/%E4%BC%91%E6%97%A5%E5%BD%93%E7%95%AA%E5%8C%BB%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B2/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0900</pubDate>
       
-      <guid>https://mc.kenkougroup.or.jp/contact/</guid>
-      <description></description>
+      <guid>https://mc.kenkougroup.or.jp/posts/%E4%BC%91%E6%97%A5%E5%BD%93%E7%95%AA%E5%8C%BB%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B2/</guid>
+      <description>mm月dd日は日曜当番医となっています</description>
     </item>
     
     <item>
-      <title>Thanks for Contacting Us</title>
-      <link>https://mc.kenkougroup.or.jp/contact_thanks/</link>
-      <pubDate>Sat, 12 May 2018 13:38:38 +1000</pubDate>
+      <title>休日当番医のお知らせ</title>
+      <link>https://mc.kenkougroup.or.jp/posts/%E4%BC%91%E6%97%A5%E5%BD%93%E7%95%AA%E5%8C%BB%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0900</pubDate>
       
-      <guid>https://mc.kenkougroup.or.jp/contact_thanks/</guid>
-      <description>Thanks for touching base with us. Someone from Alpha Church will be in touch soon.</description>
+      <guid>https://mc.kenkougroup.or.jp/posts/%E4%BC%91%E6%97%A5%E5%BD%93%E7%95%AA%E5%8C%BB%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</guid>
+      <description>mm月dd日は日曜当番医となっています</description>
     </item>
     
     <item>
-      <title>Word of God I</title>
-      <link>https://mc.kenkougroup.or.jp/sermons/table-talk-word-of-god-i/</link>
-      <pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate>
+      <title>プライバシーポリシー</title>
+      <link>https://mc.kenkougroup.or.jp/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mc.kenkougroup.or.jp/sermons/table-talk-word-of-god-i/</guid>
-      <description>Recording by Gillian Hedrie from Librivox</description>
+      <guid>https://mc.kenkougroup.or.jp/privacy/</guid>
+      <description>当サイトでは、利用状況を把握するために Google アナリティクスを利用しています。Google アナリティクスは cookie を利用して利用者の情報を収集します。Google アナリティクスの利用規約は こちら をご覧ください。</description>
     </item>
     
     <item>
-      <title>Hello World!</title>
-      <link>https://mc.kenkougroup.or.jp/posts/hello-world/</link>
-      <pubDate>Thu, 03 May 2018 21:08:01 +1000</pubDate>
+      <title>当院について</title>
+      <link>https://mc.kenkougroup.or.jp/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mc.kenkougroup.or.jp/posts/hello-world/</guid>
-      <description>Just saying hi!</description>
+      <guid>https://mc.kenkougroup.or.jp/about/</guid>
+      <description>医療機関名 医療法人けんこう　兼行病院（かねゆきびょういん）   所在地 福岡県大牟田市大字歴木 977 番地 4   管理者 院長　兼行俊司   許可病床数 一般病床 32 床，療養病床 38 床   診療科 内科，整形外科，消化器内科，循環器科，放射線科，麻酔科   連絡先 0944-54-0055（代表）    診療時間                 月 火 水 木 金 土 日   09:00-13:00 〇 〇 〇 〇 〇 〇 ×   14:00-18:00 〇 〇 〇 〇 〇 × ×    休診日 日曜，祝日，年末年始</description>
     </item>
     
     <item>
-      <title>John Calvin: Institutes 2 11</title>
-      <link>https://mc.kenkougroup.or.jp/sermons/institutes-2-11/</link>
-      <pubDate>Thu, 03 May 2018 20:12:30 +1000</pubDate>
+      <title>求人情報</title>
+      <link>https://mc.kenkougroup.or.jp/recruit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mc.kenkougroup.or.jp/sermons/institutes-2-11/</guid>
-      <description>Public Domain recording from librivox</description>
+      <guid>https://mc.kenkougroup.or.jp/recruit/</guid>
+      <description></description>
     </item>
     
   </channel>
